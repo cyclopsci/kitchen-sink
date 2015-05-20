@@ -7,3 +7,6 @@
 [submodule "puppet/modules/haproxy"]
 	path = puppet/modules/haproxy
 	url = https://github.com/puppetlabs/puppetlabs-haproxy.git
+[submodule "ansible"]
+	path = ansible
+	url = https://github.com/ansible/ansible-examples
