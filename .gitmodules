@@ -1,12 +1,12 @@
-[submodule "puppet/modules/stdlib"]
-	path = puppet/modules/stdlib
-	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
-[submodule "puppet/modules/concat"]
-	path = puppet/modules/concat
-	url = https://github.com/puppetlabs/puppetlabs-concat.git
-[submodule "puppet/modules/haproxy"]
-	path = puppet/modules/haproxy
-	url = https://github.com/puppetlabs/puppetlabs-haproxy.git
 [submodule "ansible"]
 	path = ansible
 	url = https://github.com/ansible/ansible-examples
+[submodule "puppet/modules/good/haproxy"]
+	path = puppet/modules/good/haproxy
+	url = https://github.com/puppetlabs/puppetlabs-haproxy.git
+[submodule "puppet/modules/good/concat"]
+	path = puppet/modules/good/concat
+	url = https://github.com/puppetlabs/puppetlabs-concat.git
+[submodule "puppet/modules/good/stdlib"]
+	path = puppet/modules/good/stdlib
+	url = https://github.com/puppetlabs/puppetlabs-stdlib.git
